@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c985352-5665-4ad9-8c2f-5e6aa49df0b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/abstraction/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/abstraction/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/abstraction/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/constructor/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/constructor/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/encapsulation/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/encapsulation/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/inheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/inheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/inheritance/Puppy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/inheritance/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/leetcode/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/leetcode/Solution_151.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/leetcode/Solution_283.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/leetcode/Solution_58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/leetcode/Solution_66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/methods/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/methods/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/methods/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/CharacterArrayCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/CompareString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/LowerCaseCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/SubstringComparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/gla/string/Level1/UpperCaseCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/polymorphism/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/polymorphism/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/polymorphism/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/polymorphism/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/CountVowelConsonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/CountVowelConsonants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/ManualTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/ManualTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/ShortestLongestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/ShortestLongestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/SimpleSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/SimpleSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/StudentGradeCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/StudentGradeCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/VotingEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/VotingEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/VowelConsonantCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/VowelConsonantCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/WordLength2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level2/WordLength2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/AnagramCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/BMIProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/BMIProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CalendarLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CalendarLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CharacterFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/CharacterFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/FirstNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/FirstNonRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/NestedFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/NestedFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/PalindromeLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/PalindromeLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/UniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/UniqueFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String/src/com/gla/string/Level3/UniqueFrequency.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3AeYRgeZmgkkayXtpev3fCgvY4K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Runner.executor": "Run",
+    "Application.com.gla.Level2.Runner.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "String",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/anshi/OneDrive/Desktop/Bridgelabz-Training-1Y/Method/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.gla.Level2.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gla.Level1.Runner" />
+      <module name="Method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gla.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.gla.Level2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gla.Level2.Runner" />
+      <module name="Method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gla.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.gla.Level2.Runner" />
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c985352-5665-4ad9-8c2f-5e6aa49df0b9" name="Changes" comment="" />
+      <created>1772954497964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772954497964</updated>
+      <workItem from="1772954502183" duration="12977000" />
+      <workItem from="1773060014621" duration="2496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gla/Level1/Runner.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
